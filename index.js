@@ -170,7 +170,7 @@ switch (msg.text) {
            };  
    
 
-  //подключамся к бд
+  //подключаемся к бд
 
   async function start() {
 
